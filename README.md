@@ -44,3 +44,7 @@ git remote show
 git remote sowv origin
 git remote -v
 ```
+## Выкачка и слияние файла из сайта с нашими текущими изменениями
+```sh
+git pull --rebase
+```
