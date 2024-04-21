@@ -48,3 +48,5 @@ git remote -v
 ```sh
 git pull --rebase
 ```
+
+master = main
